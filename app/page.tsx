@@ -40,6 +40,7 @@ src='/hero-mobile.png'
 width={560}
 height={620}
     className='block md:hidden'
+    alt='moblie image'
 />
           {/* Add Hero Images Here */}
         </div>
