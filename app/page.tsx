@@ -39,10 +39,9 @@ alt='Screenshot of dashboard'
 src='/hero-mobile.png'
 width={560}
 height={620}
-    className='block md:hidden'
-    alt='moblie image'
+ className='block md:hidden'
+ alt='mobile image'
 />
-          {/* Add Hero Images Here */}
         </div>
       </div>
     </main>
